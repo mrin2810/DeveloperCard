@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DeveloperCard/static/css/main.c3258e33.css",
+    "main.js": "/DeveloperCard/static/js/main.df8aa5b0.js",
+    "static/media/mrin.jpeg": "/DeveloperCard/static/media/mrin.0c0c334f55cb0d7df86c.jpeg",
+    "index.html": "/DeveloperCard/index.html",
+    "main.c3258e33.css.map": "/DeveloperCard/static/css/main.c3258e33.css.map",
+    "main.df8aa5b0.js.map": "/DeveloperCard/static/js/main.df8aa5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3258e33.css",
+    "static/js/main.df8aa5b0.js"
+  ]
+}
